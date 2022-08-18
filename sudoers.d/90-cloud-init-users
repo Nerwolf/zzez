@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.2-0ubuntu1~22.04.3 on Thu, 18 Aug 2022 18:59:45 +0000
+
+# User rules for anton
+anton ALL=(ALL) NOPASSWD:ALL
